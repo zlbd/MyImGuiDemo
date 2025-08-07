@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# self define
+ImGuiDemo.sln
+ImGuiDemo.vcxproj
+ImGuiDemo.vcxproj.filters
+glfw/
+imgui.ini
+imgui/
